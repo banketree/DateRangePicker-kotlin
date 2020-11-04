@@ -1,0 +1,16 @@
+<resources>
+    <string name="sun">日</string>
+    <string name="one">一</string>
+    <string name="two">二</string>
+    <string name="three">三</string>
+    <string name="four">四</string>
+    <string name="five">五</string>
+    <string name="six">六</string>
+    <string name="end">结束</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="before_yesterday">前天</string>
+    <string name="cur_date_error">当前日期不可选</string>
+    <string name="start">开始</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    主色调-深蓝-->
+    <!--    <color name="main_color">#194189</color>-->
+    <color name="main_color">#1D4898</color>
+    <color name="main_word_color">@color/main_color</color>
+    <!--    副色调-橙色-->
+    <color name="auxiliary_color">#F08519</color>
+    <color name="auxiliary_color_30">#4dF08519</color>
+    <color name="auxiliary_word_color">@color/auxiliary_color</color>
+
+    <color name="white_bg">#ededed</color>
+
+    <color name="hint_color">@color/gray_1</color>
+    <!--  gray  -->
+    <color name="gray">#808080</color><!--灰色 -->
+    <color name="gray_1">#CFCFCF</color>
+    <color name="gray_line_90">#e6CFCFCF</color>
+    <color name="gray_line_75">#bfCFCFCF</color>
+    <color name="gray_line_50">#80CFCFCF</color>
+
+    <color name="transparent">@android:color/transparent</color><!--粉红色 -->
+</resources>

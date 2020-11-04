@@ -1,0 +1,3 @@
+rootProject.name='TestRangeDate'
+include ':app'
+include ':daterangepicker-kotlin'
